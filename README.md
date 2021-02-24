@@ -11,10 +11,10 @@ Analysis](https://github.com/peterprescott/social-survey-analysis)
 
 [ENVS615 Analysis of Human Dynamics](https://github.com/peterprescott/election_results)
 
-[ENVS Social Network Analysis
+[ENVS803 Social Network Analysis
 & Visualization](https://github.com/peterprescott/football-sna)
 
-ENVS Understanding Data and its Environment
+ENVS801 Understanding Data and its Environment
 - [Assignment 1: Forecasting Future
   Sales](https://github.com/peterprescott/forecasting)
 - [Assignment 2: Personal Data Risk Assessment](https://github.com/peterprescott/troubled-families)
@@ -26,10 +26,9 @@ COMP527 Data Mining
 - [Assignment 2: Perceptron](https://github.com/peterprescott/perceptron)
 
 COMP529 Big Data Analysis
-- [Assignment 1:Spark](https://github.com/peterprescott/spark-standalone)
-- [Assignment 2:Storm](https://github.com/peterprescott/storm-streaming)
+- [Assignment 1: Spark](https://github.com/peterprescott/spark-standalone)
+- [Assignment 2: Storm](https://github.com/peterprescott/storm-streaming)
 
-Internship
+ENVS614 Internship
 - [Extracting Value from Postcode Data](https://github.com/peterprescott/churchmapp)
-
 
