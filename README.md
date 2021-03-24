@@ -4,7 +4,7 @@ ENVS802/GEOG5995M Object-Oriented Programming for Social Scientists
 - [Assignment 1: Agent-Based Modelling](https://github.com/peterprescott/agent-based-modelling)
 - [Assignment 2: Citation Graph](https://github.com/peterprescott/citation-graph)
 
-[ENVS441 Qualitative Research Methods](https://github.com/peterprescott/qrm)
+[ENVS441 Qualitative Research Methods](https://github.com/peterprescott/qualitative-methods)
 
 [ENVS450 Social Survey
 Analysis](https://github.com/peterprescott/social-survey-analysis)
