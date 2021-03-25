@@ -31,7 +31,8 @@ ENVS614 Internship
 
 [COMP518 Relational Databases & SQL](https://github.com/peterprescott/comp518)
 
-[ENVS615 Analysis of Human Dynamics](https://github.com/peterprescott/election_results)
+[ENVS615 Analysis of Human
+Dynamics](https://github.com/peterprescott/political-geodemographics)
 
 [ENVS803 Social Network Analysis
 & Visualization](https://github.com/peterprescott/football-sna)
