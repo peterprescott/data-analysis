@@ -7,7 +7,7 @@ ENVS802/GEOG5995M Object-Oriented Programming for Social Scientists
 [ENVS441 Qualitative Research Methods](https://github.com/peterprescott/qualitative-methods)
 
 [ENVS450 Social Survey
-Analysis](https://github.com/peterprescott/social-survey-analysis)
+Analysis](https://github.com/peterprescott/social-statistics)
 
 [ENVS615 Analysis of Human Dynamics](https://github.com/peterprescott/election_results)
 
