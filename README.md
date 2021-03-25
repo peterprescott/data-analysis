@@ -1,7 +1,7 @@
 # Data Analysis Portfolio
 
 This is a collection of work that I've done as part of the [Data
-Analytics and Society integrated PhD/MSc](https://datacdt.org) that
+Analytics MSc](https://datacdt.org) that
 I've been doing at the University of Liverpool.
 
 ENVS802/GEOG5995M Object-Oriented Programming for Social Scientists
