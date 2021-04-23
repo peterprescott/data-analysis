@@ -32,7 +32,10 @@ ENVS441 Qualitative Research Methods
 - ['Pedestrian Activist Exploration': A Critically Christian Assessment of a Qualitative Research Method](https://github.com/peterprescott/qualitative-methods/blob/master/pdf/essay_two_column.pdf)
 - ['Spatial Analysis of Religion': Anaysis of a Research Project](https://github.com/peterprescott/qualitative-methods/blob/master/pdf/presentation.pdf)
 
-[COMP518 Relational Databases & SQL](https://github.com/peterprescott/comp518)
+COMP518 Relational Databases & SQL
+- [Relational Algebra](https://github.com/peterprescott/comp518/blob/master/marked/a1.pdf)
+- [Logical Models and Normalization](https://github.com/peterprescott/comp518/blob/master/marked/a2.pdf)
+- [SQL](https://github.com/peterprescott/comp518/blob/master/marked/a3.pdf)
 
 ENVS615 Analysis of Human
 Dynamics
