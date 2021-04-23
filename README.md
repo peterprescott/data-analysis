@@ -36,7 +36,7 @@ ENVS441 Qualitative Research Methods
 
 ENVS615 Analysis of Human
 Dynamics
-- [The Geodemographics of British Politics](https://github.com/peterprescott/political-geodemographics)
+- [The Geodemographics of British Politics: A First Foray into Open Data Analytics](https://github.com/peterprescott/political-geodemographics)
 
 ENVS803 Social Network Analysis & Visualization
 - [Random Walks across Social Networks: The Markovian Movement of a Stochastic Soccerball](https://github.com/peterprescott/football-sna)
