@@ -12,8 +12,7 @@ COMP527 Data Mining
 - [Assignment 1: K-Means Clustering](https://github.com/peterprescott/kmeans)
 - [Assignment 2: Perceptron](https://github.com/peterprescott/perceptron)
 
-[ENVS450 Social Survey
-Analysis](https://github.com/peterprescott/social-statistics)
+ENVS450 Social Survey Analysis
 - [Examining the Association between Age and Religiosity in 21st Century Britain](https://github.com/peterprescott/social-statistics/blob/master/pdf/1.pdf)
 - [Examining Predictors for Home Owner-Occupancy](https://github.com/peterprescott/social-statistics/blob/master/pdf/2.pdf)
 
