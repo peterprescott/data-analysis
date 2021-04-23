@@ -14,6 +14,8 @@ COMP527 Data Mining
 
 [ENVS450 Social Survey
 Analysis](https://github.com/peterprescott/social-statistics)
+- [Examining the Association between Age and Religiosity in 21st Century Britain](https://github.com/peterprescott/social-statistics/blob/master/pdf/1.pdf)
+- [Examining Predictors for Home Owner-Occupancy](https://github.com/peterprescott/social-statistics/blob/master/pdf/2.pdf)
 
 ENVS801 Understanding Data and its Environment
 - [Assignment 1: Forecasting Future
