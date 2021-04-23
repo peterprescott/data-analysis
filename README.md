@@ -28,14 +28,17 @@ COMP529 Big Data Analysis
 ENVS614 Internship
 - [Extracting Value from Postcode Data](https://github.com/peterprescott/churchmapp)
 
-[ENVS441 Qualitative Research Methods](https://github.com/peterprescott/qualitative-methods)
+ENVS441 Qualitative Research Methods
+- ['Pedestrian Activist Exploration': A Critically Christian Assessment of a Qualitative Research Method](https://github.com/peterprescott/qualitative-methods/blob/master/pdf/essay_two_column.pdf)
+- - ['Spatial Analysis of Religion': Anaysis of a Research Project](https://github.com/peterprescott/qualitative-methods/blob/master/pdf/presentation.pdf)
 
 [COMP518 Relational Databases & SQL](https://github.com/peterprescott/comp518)
 
-[ENVS615 Analysis of Human
-Dynamics](https://github.com/peterprescott/political-geodemographics)
+ENVS615 Analysis of Human
+Dynamics
+- [The Geodemographics of British Politics](https://github.com/peterprescott/political-geodemographics)
 
-[ENVS803 Social Network Analysis
-& Visualization](https://github.com/peterprescott/football-sna)
+ENVS803 Social Network Analysis & Visualization
+- [Random Walks across Social Networks: The Markovian Movement of a Stochastic Soccerball](https://github.com/peterprescott/football-sna)
 
 
