@@ -26,7 +26,7 @@ COMP529 Big Data Analysis
 - [Assignment 2: Storm](https://github.com/peterprescott/storm-streaming)
 
 ENVS614 Internship
-- [Extracting Value from Postcode Data](https://github.com/peterprescott/churchmapp)
+- [Geographic Data Science for the Local Church: Extracting insight from Congregational Postcode Data](https://github.com/peterprescott/churchmapp/blob/master/pdf/report.pdf)
 
 ENVS441 Qualitative Research Methods
 - ['Pedestrian Activist Exploration': A Critically Christian Assessment of a Qualitative Research Method](https://github.com/peterprescott/qualitative-methods/blob/master/pdf/essay_two_column.pdf)
