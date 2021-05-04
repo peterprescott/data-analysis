@@ -44,4 +44,5 @@ Dynamics
 ENVS803 Social Network Analysis & Visualization
 - [Random Walks across Social Networks: The Markovian Movement of a Stochastic Soccerball](https://github.com/peterprescott/football-sna)
 
-
+ENVS613 Research Project
+- [Lightning Talk: Geodemographics in Five Slides](https://github.com/peterprescott/phd-presentation)
