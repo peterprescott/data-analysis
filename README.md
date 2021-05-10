@@ -19,7 +19,7 @@ ENVS450 Social Survey Analysis
 ENVS801 Understanding Data and its Environment
 - [Assignment 1: Forecasting Future
   Sales](https://github.com/peterprescott/forecasting)
-- [Assignment 2: Personal Data Risk Assessment](https://github.com/peterprescott/data-protection)
+- [Assignment 2: The Legal Requirements & Technical Concepts of Data Protection](https://github.com/peterprescott/data-protection)
 
 COMP529 Big Data Analysis
 - [Assignment 1: Spark](https://github.com/peterprescott/spark-standalone)
