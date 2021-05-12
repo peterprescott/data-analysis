@@ -46,3 +46,6 @@ ENVS803 Social Network Analysis & Visualization
 
 ENVS613 Research Project
 - [Lightning Talk: Geodemographics in Five Slides](https://github.com/peterprescott/phd-presentation)
+
+Other
+- [Setting Geodemographics in the Context of Developments in Computing and AI](https://github.com/peterprescott/computing-history/blob/master/pdf/essay_two_column.pdf)
