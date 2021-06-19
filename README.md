@@ -18,7 +18,7 @@ ENVS450 Social Survey Analysis
 
 ENVS801 Understanding Data and its Environment
 - [Assignment 1: Forecasting Future
-  Sales](https://github.com/peterprescott/forecasting)
+  Sales](https://github.com/peterprescott/forecasting/blob/master/nb/draft.ipynb)
 - [Assignment 2: The Legal Requirements & Technical Concepts of Data Protection](https://github.com/peterprescott/data-protection/blob/master/pdf/1.pdf)
 
 COMP529 Big Data Analysis
