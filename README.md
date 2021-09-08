@@ -42,7 +42,7 @@ Dynamics
 - [The Geodemographics of British Politics: A First Foray into Open Data Analytics](https://github.com/peterprescott/political-geodemographics)
 
 ENVS803 Social Network Analysis & Visualization
-- [Random Walks across Social Networks: The Markovian Movement of a Stochastic Soccerball](https://github.com/peterprescott/football-sna)
+- [Random Walks across Social Networks: The Markovian Movement of a Stochastic Soccerball](https://github.com/peterprescott/football-sna/blob/master/publish/PPrescott2020_RandomWalksAcrossSocialNetworks.pdf)
 
 ENVS613 Research Project
 - [Lightning Talk: Geodemographics in Five Slides](https://github.com/peterprescott/phd-presentation)
