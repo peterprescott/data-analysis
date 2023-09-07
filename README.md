@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 This is a collection of projects that I've done as part of the [integrated Data
-Science MSc/PhD](https://datacdt.org) that
+Science MSc/PhD](https://datacdt.org) t hat
 I've been doing at the University of Liverpool.
 
 ENVS802/GEOG5995M Object-Oriented Programming for Social Scientists
