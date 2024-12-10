@@ -2,7 +2,7 @@
 
 This is a collection of projects that were done as part of the [integrated Data
 Science MSc/PhD](https://datacdt.org) that
-I did at the University of Liverpool. I received a Distinction for the MSc, but dropped out of the PhD without completing to work with data-driven start-ups.
+I did at the University of Liverpool. I received a Distinction for the MSc, but dropped out of the PhD to pursue real-world impact with data-driven start-ups.
 
 - Geodemographics [Literature Review](https://github.com/peterprescott/lit-review/blob/master/pdf/PPrescott2021_GeodemographicsLitReview_Draft3.pdf)
 - Dissertation: Defining a Micro-Geodemographic Natural Area with Street Network Topology. [Paper](https://github.com/peterprescott/a1-dissertation/blob/master/pdf/PPrescott2021_StreetNetworkTopology.pdf) / [Code](https://github.com/peterprescott/nbhd) / [Notebooks](https://github.com/peterprescott/nbhd-analysis)
